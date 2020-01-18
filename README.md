@@ -6,3 +6,4 @@ This code provides a perfect selenium package working with the help of Geckodriv
 We try to open selenium website on Firefox browser. 
 
 There are two dependencies which are added - Maven and Junit, both are actively used in Java Testing. 
+This particular is based of Google Chrome and Mozilla Firefox.
